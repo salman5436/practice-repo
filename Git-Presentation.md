@@ -1,1 +1,29 @@
-# test-repo
+# Git Presentation:
+
+## Thank you all for coming! You will be assigned a number - 
+## With the corresponding number space below, add your name and your favorite movie
+## Make sure you save afterwards :) 
+
+1:
+2:
+3:
+4:
+5:
+6:
+7:
+8:
+9:
+10:
+11:
+12:
+13:
+14:
+15:
+16:
+17:
+18:
+19:
+20:
+21:
+22:
+23:
