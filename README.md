@@ -10,7 +10,7 @@
 - `cd Desktop` (or a way to get to your desktop or other convenient location)
 - `git clone https://github.com/salman5436/practice-repo.git`
 - `ls`
-- `cd test-repo`
+- `cd practice-repo`
 - `ls` should see same file as on GitHub a markdown file called `Git-Presentation`
 - `git status` - confirm you are in a git repository
 - `code .` to open in vs code using 
