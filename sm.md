@@ -1,0 +1,1 @@
+Nothing changes if nothing changes - Craig Ferguson
