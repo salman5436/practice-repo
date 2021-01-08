@@ -29,4 +29,4 @@
 - `git checkout main` to go back to main branch
 - See all the files created by your teammates
 - `git checkout your_name`
-- `git pull origin master` to bring in all the changes from main to your branch, if you need those changes
+- `git pull origin main` to bring in all the changes from main to your branch, if you need those changes
