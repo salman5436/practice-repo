@@ -8,7 +8,7 @@
 - Copy url
 - In terminal type 
 - `cd Desktop` (or a way to get to your desktop or other convenient location)
-- `git clone https://github.com/salman5436/test-repo.git`
+- `git clone https://github.com/salman5436/practice-repo.git`
 - `ls`
 - `cd test-repo`
 - `ls` should see same file as on GitHub a markdown file called `Git-Presentation`
