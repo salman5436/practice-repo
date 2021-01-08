@@ -1,3 +1,7 @@
+# Welcome to this Git/Github Activity
+
+## Together, we will follow these steps to practice the git commands and 
+
 - Navigate to directory
 - Open terminal
 - Green code button
